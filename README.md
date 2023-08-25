@@ -61,6 +61,6 @@ Let's connect! You can reach me via [Email](mailto:sagiecyber@gmail.com) or on [
 
 I want to express my gratitude to ALX_Africa and Microverse for their inspiration and support in my journey.
 
-> "Quote that Represents Your Philosophy or Approach"
+![✍️ Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 Feel free to explore my portfolio and get in touch. Let's build something amazing together!
